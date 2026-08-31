@@ -26,7 +26,8 @@ To address sparse, IRB-restricted clinical data and point-prediction limitations
 
 Because real-world menstrual cycle datasets are highly restricted due to IRB and privacy constraints, *Girls & Cycles* uses a curated synthetic dataset ($N=6,000$ cycles across 500 users) generated from published epidemiological distributions. 
 
-<img width="1189" height="413" alt="image" src="https://github.com" />
+![Dataset Validation](gandc_visual.png)
+
 
 ---
 
